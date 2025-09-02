@@ -1,0 +1,22 @@
+<root>
+
+	<ali:table xmlns:ali="http://google.com">
+
+		<ali:tr>
+		
+			<ali:td>Roll</ali:td>
+			<ali:td>Mark</ali:td>
+		
+		</ali:tr>
+
+	</ali:table>
+
+	<haidar:table xmlns:haidar="http://facebook.com">
+
+		<haidar:name>Ali</haidar:name>
+		<haidar:age>23</haidar:age>
+		<haidar:gender>Male</haidar:gender>
+
+	</haidar:table>
+
+</root>

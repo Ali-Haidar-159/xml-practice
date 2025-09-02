@@ -1,0 +1,40 @@
+<root>
+
+	<users>
+	
+		<student>
+		
+			<name>Ali</name>
+			<age>20</age>
+			<gender>Male</gender>
+			
+		</student>
+		
+		<student>
+		
+			<name>Haidar</name>
+			<age>22</age>
+			<gender>Male</gender>
+			
+		</student>
+		
+		<teacher>
+		
+			<name>Kamal</name>
+			<dept>EEE</dept>
+		
+		</teacher>
+		
+		<teacher>
+		
+			<name>Rasel</name>
+			<dept>CSE</dept>
+		
+		</teacher>
+	
+	</users>
+
+</root>
+
+
+/root/users/teacher[2]/dept = CSE

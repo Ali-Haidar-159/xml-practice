@@ -1,0 +1,40 @@
+<?xml version="1.0"  encodeing="UTF-8" ?>
+
+<students>
+
+	<age>all the students age &gt; 18</age>
+
+	<cse full-meaning="computer science">
+	
+		<student>		
+			<name>Ali</name>
+			<id>101</id>		
+		</student>
+		
+		<student>		
+			<name>Haidar</name>
+			<id>102</id>		
+		</student>
+		
+		<student>		
+			<name>Kamal</name>
+			<id>103</id>		
+		</student>
+	
+	</cse>
+	
+	<eee full-meaning="electirical">
+	
+		<student>		
+			<name>Matin</name>
+			<id>201</id>		
+		</student>
+		
+		<student>		
+			<name>Jabbar</name>
+			<id>202</id>		
+		</student>
+	
+	</eee>
+
+</students>

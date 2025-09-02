@@ -1,0 +1,27 @@
+<students> 
+
+	<student>
+	
+		<name>Ali</name>
+		<id>101</id>
+		<mark>90</mark>
+	
+	</student>
+	
+	<student>
+	
+		<name>Haidar</name>
+		<id>102</id>
+		<mark>92</mark>
+	
+	</student>
+	
+	<studenta>
+	
+		<name>Haidar</name>
+		<id>102</id>
+		<mark>92</mark>
+	
+	</studenta>
+
+</students>
